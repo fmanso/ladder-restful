@@ -1,0 +1,19 @@
+{
+    "name": "LadderRest", 
+    "version": "0.0.1", 
+    "dependencies": {
+        "restify": "*", 
+        "coffee-script": "*", 
+        "mongojs": "*",         
+        "bcrypt": "*",
+        "JSV":"*",
+        "mocha":"*"     
+    }, 
+    "scripts": {
+      "start": "server.js"
+    }, 
+    "engines": {
+        "node": "0.8.2", 
+        "npm": "1.1.x"
+    }
+}
