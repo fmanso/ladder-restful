@@ -21,7 +21,7 @@ As mongodb driver
  JSV: (https://github.com/garycourt/JSV)
 For validation of JSON documents
 
- Mocha: (http://visionmedia.github.com/mocha/)
+ Mocha: (http://mochajs.org/)
 For Unit Testing
 
  Skeleton: (https://github.com/EtienneLem/skeleton)
